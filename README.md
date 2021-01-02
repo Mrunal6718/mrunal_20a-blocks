@@ -1,1 +1,2 @@
-# PRO-C-20-A-
+# p5.play-boilerplate
+Boiler plate for p5.play
